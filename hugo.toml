@@ -72,7 +72,7 @@ enableEmoji = true
     mobileMode = "auto"
     [params.header.title]
       logo = ""
-      name = "Oráculo"
+      name = "O Oráculo"
       pre = ""
       post = ""
       typeit = false
