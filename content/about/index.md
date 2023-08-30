@@ -11,6 +11,4 @@ math:
   enable: true
 ---
 
-> [O Oráculo](htts://blog.spacecowboy.dev) é um **livro-blog**.
-
 ![O Oráculo](/images/The_Oracle.jpg "O Oráculo")

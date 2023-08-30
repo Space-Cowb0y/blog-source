@@ -40,18 +40,18 @@ languageName = "English"
     title = ""
   [[menu.main]]
     weight = 3
-    identifier = "categories"
+    identifier = "categorias"
     pre = ""
     post = ""
-    name = "Categories"
+    name = "Categorias"
     url = "/categories/"
     title = ""
   [[menu.main]]
     weight = 4
-    identifier = "About"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "About"
+    name = "Sobre"
     url = "/about/"
     title = ""
 
