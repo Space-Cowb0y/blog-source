@@ -55,15 +55,13 @@ languageName = "Brazilian Portuguese"
     url = "/about/"
     title = ""
 
-defaultTheme = "auto"
-googleAnalytics = ""
-copyright = ""
-paginate = 12
-enableEmoji = true
-
 # Paraments
 [params]
-
+  defaultTheme = "auto"
+  googleAnalytics = ""
+  copyright = ""
+  paginate = 12
+  enableEmoji = true
   dateFormat = "02-01-2006"
   images = ["/logo.png"]
 
