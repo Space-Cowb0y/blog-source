@@ -340,7 +340,7 @@ languageName = "Brazilian Portuguese"
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -370,17 +370,17 @@ languageName = "Brazilian Portuguese"
         languageCode = ""
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
-        enable = false
-        siteID = ""
+        enable = true
+        siteID = "RLf-MZRm"
         limit = 5
         height = ""
-        color = ""
+        color = "White"
         colorful = true
-        dislikes = false
+        dislikes = true
         outlined = false
       # Commento comment config (https://commento.io/)
       [params.page.comment.commento]
-        enable = false
+        enable = true
       # utterances comment config (https://utteranc.es/)
       [params.page.comment.utterances]
         enable = false
