@@ -3,8 +3,8 @@ title: ""
 date: 2023-08-27T13:38:01-03:00
 draft: false
 description: "Tive muitos nomes e terei muitos outros."
-images: ["/The_Oracle.jpg"]
-comment: true
+images:
+comment: false
 lightgallery: true
 
 math:

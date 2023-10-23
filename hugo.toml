@@ -141,13 +141,13 @@ languageName = "Brazilian Portuguese"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "bruno@spacecowboy.dev"
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/assets/images/oracle-gravatar.jpg"
       # title shown in home page (HTML format is supported)
-      title = "A journey in my mind"
+      title = "<i>Aqui está meu diário</i>"
       # subtitle shown in home page (HTML format is supported)
       subtitle = ""
       # whether to use typeit animation for subtitle
-      typeit = false
+      typeit = true
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
@@ -162,7 +162,7 @@ languageName = "Brazilian Portuguese"
     GitHub = "Space-Cowb0y"
     Linkedin = ""
     Twitter = "Sp4ce_Cowb0y_"
-    Instagram = ""
+    Instagram = "sp4ce_cowb0y"
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -330,14 +330,17 @@ languageName = "Brazilian Portuguese"
       [params.page.comment.disqus]
         enable = false
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "blog-spacecowboy-dev"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = false
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
+        owner = "Space-Cowb0y"
+        admin = ["Space-Cowb0y"]
+        id = "location.href"
+        title = "document.title"
+        repo = "https://github.com/Space-Cowb0y/blog-comments"
+        clientId = "84f25fdd5ca118edce42"
+        clientSecret = "d1fa08f0dec68bf759ac753ed1015132d31ea215"
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = false
@@ -370,7 +373,7 @@ languageName = "Brazilian Portuguese"
         languageCode = ""
       # Telegram comments config (https://comments.app/)
       [params.page.comment.telegram]
-        enable = true
+        enable = false
         siteID = "RLf-MZRm"
         limit = 5
         height = ""
@@ -380,7 +383,7 @@ languageName = "Brazilian Portuguese"
         outlined = false
       # Commento comment config (https://commento.io/)
       [params.page.comment.commento]
-        enable = true
+        enable = false
       # utterances comment config (https://utteranc.es/)
       [params.page.comment.utterances]
         enable = false
@@ -393,20 +396,22 @@ languageName = "Brazilian Portuguese"
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = false
-        repo = ""
-        repoId = ""
-        category = "Announcements"
-        categoryId = ""
+        enable = true
+        repo = "Space-Cowb0y/blog-comments"
+        repoId = "R_kgDOKNezIQ"
+        category = "General"
+        categoryId = "DIC_kwDOKNezIc4CY-p8"
         # automatically adapt the current theme i18n configuration when empty
-        lang = ""
+        lang = "pt"
         mapping = "pathname"
-        reactionsEnabled = "1"
+        reactionsEnabled = "0"
         emitMetadata = "0"
-        inputPosition = "bottom"
+        inputPosition = "top"
         lazyLoading = false
         lightTheme = "light"
         darkTheme = "dark"
+        strict="0"
+        crossorigin="anonymous"
     # Third-party library config
     [params.page.library]
       [params.page.library.css]
