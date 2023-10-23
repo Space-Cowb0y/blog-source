@@ -25,4 +25,4 @@ math:
 
 Esse blog se destina as tentativas frusta de um escritor amador de se aventurar no mundo da escrita.
 Apesar de algumas de minhas histórias serem curtas, elas fazem parte de um todo que contém fragmentos de minha vida e de minha imaginação.
-Espero que gostem e que se divirtam com minhas histórias.
+
