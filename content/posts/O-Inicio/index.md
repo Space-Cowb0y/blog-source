@@ -11,7 +11,7 @@ resources:
   src: "books.png"
 
 tags: ["Conto", "Ficção"]
-categories: ["Ficção"]
+categories: ["Contos"]
 
 lightgallery: true
 
