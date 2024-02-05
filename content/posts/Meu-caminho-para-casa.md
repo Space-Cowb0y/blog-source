@@ -5,7 +5,7 @@ draft: true
 subtitle: ""
 description: ""
 images: []
-hiddenfromhomepage: false
+hiddenfromhomepage: true
 tags: []
 categories: []
 
