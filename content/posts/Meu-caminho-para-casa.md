@@ -5,10 +5,7 @@ draft: true
 subtitle: ""
 description: ""
 images: []
-resources:
-- name: "featured-image"
-  src: "books.png"
-
+hiddenfromhomepage: true
 tags: []
 categories: []
 
