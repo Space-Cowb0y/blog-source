@@ -1,6 +1,7 @@
 import os
 
 os.system("cd C:\\Users\\Pichau\\Documents\\Projetos\\blog-source")
+os.system
 os.system("git add *")
 os.system("git commit -m" + input("Commit message dev: "))
 os.system("cd .\\public\\")
