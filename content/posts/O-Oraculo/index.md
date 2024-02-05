@@ -2,8 +2,9 @@
 title: "Ponto de não retorno"
 subtitle: ""
 date: 2023-08-27T13:54:59-03:00
-lastmod:  2024-02-02T11:00:00-03:00
+lastmod:  2024-02-02
 draft: false
+
 description: ""
 hiddenfromhomepage: false
 images: []
@@ -48,4 +49,6 @@ O suor lhe escorria pelo rosto e pingava em seu colo, ela olhou para o relógio 
 folheando o caderno a procurar uma folha em branco para decorrer seu sonho, todas estavam preenchidas com o mesmo sonho, encontrada uma folha em branco no final do caderno, começou a escrever, ao terminar notou que ela nunca tinha visto o rosto daquele homem antes nos seus sonhos, sempre lhe era uma imagem de alguém conhecido, tentou vagamente desenhar no canto da folha um retrato menor do homem, mas não conseguiu, escrevendo logo abaixo *"quem é você?"* repetindo para si mesma enquanto escrevia.
 Seu despertador tocará lhe causando outro susto, estava na hora de ir trabalhar.
 
+
+### O Mirante
 O planeta onde Helena vivia era um lugar agitado por inovações.

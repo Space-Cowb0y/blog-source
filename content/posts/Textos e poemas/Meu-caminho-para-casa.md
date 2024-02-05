@@ -7,6 +7,7 @@ draft: true
 description: ""
 images: []
 hiddenfromhomepage: true
+hiddenFromSearch: false
 tags: ["Textos", "Poemas"]
 categories: ["Textos"]
 
