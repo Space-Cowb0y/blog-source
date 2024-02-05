@@ -5,6 +5,7 @@ date: 2023-08-27T13:54:59-03:00
 lastmod:  2024-02-02T11:00:00-03:00
 draft: false
 description: ""
+hiddenfromhomepage: false
 images: []
 resources:
 - name: "featured-image"
